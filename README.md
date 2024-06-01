@@ -5,6 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## About The Project
 
 This is Owl-Insect app in which we can select insects and drag and drop. When insect moves owl keeps eyes on insect. When the insect reaches owl's mouth, It will be eaten by owl.
+<a href="https://owlinsect.netlify.app">Netlify Preview</a>
 
 ## About Technology and Libraries
 
